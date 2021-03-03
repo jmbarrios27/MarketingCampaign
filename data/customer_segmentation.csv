@@ -1,0 +1,2241 @@
+,ID,CustomerSegmentation
+0,5524,5-Star
+1,2174,Need Attention
+2,4141,Highest Potential
+3,6182,Need Attention
+4,5324,Need Attention
+5,7446,Highest Potential
+6,965,Loyal
+7,6177,Loyal
+8,4855,Loyal
+9,5899,Need Attention
+10,1994,Need Attention
+11,387,Loyal
+12,2125,Highest Potential
+13,8180,Need Attention
+14,2569,Loyal
+15,2114,5-Star
+16,9736,Loyal
+17,4939,Loyal
+18,6565,5-Star
+19,2278,Loyal
+20,9360,Loyal
+21,5376,5-Star
+22,1993,5-Star
+23,4047,Highest Potential
+24,1409,Loyal
+25,7892,Loyal
+26,2404,Loyal
+27,5255,Loyal
+28,9422,Loyal
+29,1966,Highest Potential
+30,6864,Need Attention
+31,3033,Loyal
+32,5710,Loyal
+33,7373,Loyal
+34,8755,5-Star
+35,10738,Need Attention
+36,4339,Highest Potential
+37,10755,Need Attention
+38,8595,Need Attention
+39,2968,5-Star
+40,8601,5-Star
+41,503,Loyal
+42,8430,Loyal
+43,7281,Need Attention
+44,2139,Need Attention
+45,1371,Highest Potential
+46,9909,Loyal
+47,7286,Loyal
+48,7244,Need Attention
+49,6566,5-Star
+50,8614,Highest Potential
+51,4114,5-Star
+52,1331,Loyal
+53,2225,Highest Potential
+54,9381,Highest Potential
+55,6260,5-Star
+56,10383,5-Star
+57,7437,Need Attention
+58,8557,Loyal
+59,8375,Need Attention
+60,6853,5-Star
+61,3076,5-Star
+62,1012,5-Star
+63,6518,Highest Potential
+64,4137,Highest Potential
+65,8082,Loyal
+66,1386,Need Attention
+67,9369,Highest Potential
+68,4477,Highest Potential
+69,1357,5-Star
+70,1402,5-Star
+71,10629,Loyal
+72,6312,5-Star
+73,8132,Loyal
+74,1050,Need Attention
+75,5846,Loyal
+76,1859,5-Star
+77,7503,5-Star
+78,10401,Need Attention
+79,1618,Loyal
+80,3332,Loyal
+81,2261,Loyal
+82,5346,Loyal
+83,4119,Loyal
+84,535,Highest Potential
+85,5268,Need Attention
+86,273,Loyal
+87,4452,Need Attention
+88,8504,Highest Potential
+89,771,Need Attention
+90,8996,Loyal
+91,9235,Need Attention
+92,5798,Highest Potential
+93,11178,Need Attention
+94,2230,Need Attention
+95,7516,Need Attention
+96,7247,Loyal
+97,11100,Loyal
+98,4646,Highest Potential
+99,3037,Loyal
+100,1473,Need Attention
+101,1016,Need Attention
+102,4518,5-Star
+103,9370,5-Star
+104,8908,Highest Potential
+105,8373,Need Attention
+106,7533,Need Attention
+107,2683,5-Star
+108,3629,Loyal
+109,10991,5-Star
+110,5077,Highest Potential
+111,7431,5-Star
+112,3267,Need Attention
+113,999,5-Star
+114,9215,Loyal
+115,2286,Need Attention
+116,1592,Highest Potential
+117,367,Loyal
+118,5234,Loyal
+119,9862,Need Attention
+120,9805,Loyal
+121,6205,Need Attention
+122,8442,Need Attention
+123,7386,Loyal
+124,7215,5-Star
+125,1491,5-Star
+126,11071,5-Star
+127,3381,Need Attention
+128,8268,Loyal
+129,11051,Highest Potential
+130,8026,Need Attention
+131,433,Loyal
+132,9597,Highest Potential
+133,1295,Need Attention
+134,5290,Need Attention
+135,1685,5-Star
+136,5342,Loyal
+137,9579,Loyal
+138,7660,Need Attention
+139,1461,Need Attention
+140,821,5-Star
+141,11084,Highest Potential
+142,8690,5-Star
+143,2937,Highest Potential
+144,9701,Loyal
+145,9949,5-Star
+146,10837,Loyal
+147,3120,Need Attention
+148,5885,Loyal
+149,4050,Need Attention
+150,3830,Need Attention
+151,7987,Need Attention
+152,7798,Loyal
+153,92,Need Attention
+154,7055,5-Star
+155,10240,5-Star
+156,3025,Loyal
+157,9283,Need Attention
+158,9970,Need Attention
+159,2730,Highest Potential
+160,2795,Loyal
+161,9260,5-Star
+162,8182,Need Attention
+163,10095,5-Star
+164,8475,Highest Potential
+165,4370,Need Attention
+166,10573,Need Attention
+167,3712,Need Attention
+168,6637,Highest Potential
+169,3152,Need Attention
+170,5610,Need Attention
+171,6460,Loyal
+172,1349,Need Attention
+173,1880,Need Attention
+174,641,Need Attention
+175,8717,5-Star
+176,10314,5-Star
+177,10854,Need Attention
+178,10492,Need Attention
+179,6935,Highest Potential
+180,7698,Need Attention
+181,3559,Need Attention
+182,10562,Highest Potential
+183,10796,Need Attention
+184,2563,Need Attention
+185,3518,Loyal
+186,5823,Need Attention
+187,3934,Highest Potential
+188,6982,5-Star
+189,6431,Loyal
+190,9733,Loyal
+191,5602,5-Star
+192,7829,Need Attention
+193,1324,Loyal
+194,326,Loyal
+195,7224,Need Attention
+196,6999,Highest Potential
+197,9938,Highest Potential
+198,6422,5-Star
+199,3182,Need Attention
+200,7300,Highest Potential
+201,10424,Highest Potential
+202,8727,Highest Potential
+203,2798,5-Star
+204,1030,Need Attention
+205,624,Loyal
+206,5176,Need Attention
+207,5552,Loyal
+208,868,Need Attention
+209,380,5-Star
+210,2677,Loyal
+211,6521,Highest Potential
+212,6927,Loyal
+213,2877,Loyal
+214,0,5-Star
+215,1584,Need Attention
+216,7264,Need Attention
+217,6274,Highest Potential
+218,1377,Need Attention
+219,454,5-Star
+220,1755,Need Attention
+221,2075,Highest Potential
+222,4785,Highest Potential
+223,9076,Loyal
+224,7079,5-Star
+225,4653,Loyal
+226,7375,Loyal
+227,709,5-Star
+228,460,5-Star
+229,3726,Need Attention
+230,6798,Loyal
+231,5341,5-Star
+232,1606,Loyal
+233,9617,Need Attention
+234,3233,5-Star
+235,89,Need Attention
+236,2936,Need Attention
+237,9449,Highest Potential
+238,7297,Need Attention
+239,11004,Need Attention
+240,313,Highest Potential
+241,9940,5-Star
+242,10735,Need Attention
+243,9529,Highest Potential
+244,6439,5-Star
+245,7411,Need Attention
+246,2176,5-Star
+247,9265,5-Star
+248,8867,5-Star
+249,8932,5-Star
+250,10236,Need Attention
+251,6340,Need Attention
+252,10089,5-Star
+253,2227,Loyal
+254,10992,5-Star
+255,5304,Loyal
+256,309,5-Star
+257,3406,Loyal
+258,2661,Loyal
+259,3153,Need Attention
+260,10264,Loyal
+261,1184,5-Star
+262,4200,Need Attention
+263,9396,Loyal
+264,2387,Loyal
+265,6690,Loyal
+266,1225,Highest Potential
+267,9703,Loyal
+268,291,Highest Potential
+269,4557,Need Attention
+270,2379,5-Star
+271,5726,Need Attention
+272,3066,Need Attention
+273,6336,Need Attention
+274,10967,Loyal
+275,2304,Highest Potential
+276,3445,5-Star
+277,7828,Highest Potential
+278,3762,5-Star
+279,4391,5-Star
+280,4669,Loyal
+281,10144,Loyal
+282,8652,Loyal
+283,1672,Need Attention
+284,8962,Need Attention
+285,9974,Loyal
+286,10983,5-Star
+287,8148,5-Star
+288,10102,Highest Potential
+289,4697,Loyal
+290,9262,Loyal
+291,7254,Need Attention
+292,4543,5-Star
+293,4927,Need Attention
+294,10451,Loyal
+295,2926,5-Star
+296,2874,Loyal
+297,9738,Loyal
+298,7119,5-Star
+299,3924,Highest Potential
+300,5827,Need Attention
+301,5596,Highest Potential
+302,10812,Need Attention
+303,1717,Need Attention
+304,9491,Need Attention
+305,9274,5-Star
+306,6609,Loyal
+307,6963,Highest Potential
+308,4440,Highest Potential
+309,1379,Loyal
+310,10032,Need Attention
+311,2826,Need Attention
+312,2437,5-Star
+313,6320,5-Star
+314,3050,Need Attention
+315,231,Need Attention
+316,2392,Need Attention
+317,9478,Loyal
+318,113,Loyal
+319,2863,Highest Potential
+320,1802,5-Star
+321,520,Loyal
+322,8275,Need Attention
+323,9750,5-Star
+324,2607,Loyal
+325,7214,5-Star
+326,5835,Loyal
+327,3896,Need Attention
+328,10350,Loyal
+329,7786,Loyal
+330,2861,Loyal
+331,663,Need Attention
+332,10675,5-Star
+333,2521,Loyal
+334,9592,Loyal
+335,10151,5-Star
+336,7381,5-Star
+337,4099,Loyal
+338,9560,5-Star
+339,1150,Highest Potential
+340,10172,5-Star
+341,11191,Need Attention
+342,9707,5-Star
+343,6245,Loyal
+344,8234,Need Attention
+345,1411,Highest Potential
+346,8553,Loyal
+347,1826,Highest Potential
+348,8842,Loyal
+349,11030,Need Attention
+350,2579,Highest Potential
+351,175,5-Star
+352,9185,Highest Potential
+353,11056,5-Star
+354,9365,5-Star
+355,6201,Need Attention
+356,2061,Loyal
+357,6184,5-Star
+358,6142,Highest Potential
+359,4107,Need Attention
+360,7274,5-Star
+361,9336,Highest Potential
+362,2958,Need Attention
+363,933,Loyal
+364,5837,Loyal
+365,10704,Loyal
+366,5125,5-Star
+367,4432,Loyal
+368,5955,5-Star
+369,2928,5-Star
+370,5680,Need Attention
+371,10313,Loyal
+372,2557,Need Attention
+373,1245,5-Star
+374,1519,Loyal
+375,10703,Loyal
+376,1726,Loyal
+377,4459,Loyal
+378,1729,Highest Potential
+379,1517,Loyal
+380,2098,Loyal
+381,9543,Need Attention
+382,6878,Loyal
+383,3310,Loyal
+384,2724,Need Attention
+385,948,Loyal
+386,6720,Need Attention
+387,6202,5-Star
+388,2066,Loyal
+389,9799,5-Star
+390,8318,Highest Potential
+391,5642,Need Attention
+392,2669,Highest Potential
+393,455,Loyal
+394,7683,Highest Potential
+395,3428,Highest Potential
+396,7414,Loyal
+397,6354,Loyal
+398,798,Loyal
+399,8213,Loyal
+400,2488,Loyal
+401,9999,5-Star
+402,7617,Need Attention
+403,615,Loyal
+404,2552,Need Attention
+405,194,Need Attention
+406,3645,Loyal
+407,8890,Need Attention
+408,5049,Loyal
+409,9973,Loyal
+410,7301,Loyal
+411,10882,5-Star
+412,7030,5-Star
+413,7422,Loyal
+414,3523,5-Star
+415,7106,Highest Potential
+416,6504,Need Attention
+417,5067,Highest Potential
+418,4216,5-Star
+419,8581,Loyal
+420,5929,Need Attention
+421,3129,Need Attention
+422,6528,Need Attention
+423,1361,5-Star
+424,6932,5-Star
+425,7284,Need Attention
+426,1340,Highest Potential
+427,8746,Highest Potential
+428,5987,Need Attention
+429,3767,5-Star
+430,3725,5-Star
+431,4324,Loyal
+432,238,5-Star
+433,6694,Highest Potential
+434,498,Need Attention
+435,9347,Loyal
+436,9699,Highest Potential
+437,10664,Need Attention
+438,5455,Need Attention
+439,456,Loyal
+440,5012,Loyal
+441,7495,Need Attention
+442,5029,Need Attention
+443,10642,Loyal
+444,2106,Need Attention
+445,10364,Loyal
+446,5954,Need Attention
+447,1137,Highest Potential
+448,2541,Loyal
+449,1142,Need Attention
+450,2276,5-Star
+451,2807,5-Star
+452,6471,Need Attention
+453,6131,Highest Potential
+454,6233,5-Star
+455,4148,Loyal
+456,4947,5-Star
+457,3225,Loyal
+458,7540,Need Attention
+459,10648,5-Star
+460,1992,Highest Potential
+461,7851,Highest Potential
+462,8594,Need Attention
+463,7059,Highest Potential
+464,2815,Need Attention
+465,2416,Highest Potential
+466,7999,5-Star
+467,9213,Loyal
+468,9697,Need Attention
+469,3916,5-Star
+470,2021,5-Star
+471,1581,Need Attention
+472,564,5-Star
+473,6619,Loyal
+474,9081,Need Attention
+475,178,5-Star
+476,916,Need Attention
+477,5512,Need Attention
+478,8970,Loyal
+479,10581,Loyal
+480,5300,Need Attention
+481,5154,Need Attention
+482,8346,Loyal
+483,1676,Need Attention
+484,9286,5-Star
+485,2426,5-Star
+486,5172,Highest Potential
+487,5562,Highest Potential
+488,3436,Need Attention
+489,3921,Loyal
+490,3403,5-Star
+491,22,Loyal
+492,10965,5-Star
+493,9426,5-Star
+494,6605,Highest Potential
+495,3136,Loyal
+496,8737,Need Attention
+497,11088,5-Star
+498,716,Highest Potential
+499,466,5-Star
+500,9135,Loyal
+501,10623,Need Attention
+502,8151,Loyal
+503,5140,5-Star
+504,10160,Loyal
+505,4945,5-Star
+506,10584,Highest Potential
+507,6071,Highest Potential
+508,3386,Loyal
+509,8939,5-Star
+510,9925,Loyal
+511,4320,5-Star
+512,5389,Need Attention
+513,6036,Highest Potential
+514,182,Loyal
+515,203,5-Star
+516,11025,Loyal
+517,10203,Loyal
+518,4607,Highest Potential
+519,3711,Highest Potential
+520,3696,Need Attention
+521,2532,Highest Potential
+522,9214,Need Attention
+523,4943,5-Star
+524,35,Loyal
+525,2258,Loyal
+526,4322,Highest Potential
+527,713,Need Attention
+528,4702,5-Star
+529,3281,Need Attention
+530,702,Loyal
+531,2004,Highest Potential
+532,4769,Need Attention
+533,4437,Loyal
+534,8724,Loyal
+535,10741,Loyal
+536,1991,Need Attention
+537,6931,Highest Potential
+538,11096,Need Attention
+539,304,Need Attention
+540,3665,Need Attention
+541,10591,Loyal
+542,5036,Loyal
+543,5547,Highest Potential
+544,7822,Loyal
+545,8541,Need Attention
+546,10955,Highest Potential
+547,4368,Need Attention
+548,9671,Need Attention
+549,2256,Need Attention
+550,4279,Need Attention
+551,5371,Need Attention
+552,9240,Need Attention
+553,9460,Loyal
+554,9504,Highest Potential
+555,8692,Loyal
+556,448,5-Star
+557,8314,5-Star
+558,8420,Need Attention
+559,3174,5-Star
+560,7685,Need Attention
+561,3179,5-Star
+562,9780,Highest Potential
+563,10681,Highest Potential
+564,10232,Need Attention
+565,4184,Need Attention
+566,9120,5-Star
+567,891,Need Attention
+568,10381,Loyal
+569,3525,Loyal
+570,6818,Loyal
+571,3526,Need Attention
+572,8181,Need Attention
+573,1029,Need Attention
+574,7369,Need Attention
+575,2574,5-Star
+576,8159,Need Attention
+577,1160,Need Attention
+578,10242,Need Attention
+579,5253,Loyal
+580,5966,Loyal
+581,5314,Loyal
+582,5081,Need Attention
+583,5123,Loyal
+584,5756,Need Attention
+585,8036,Need Attention
+586,9058,5-Star
+587,5057,Highest Potential
+588,254,Need Attention
+589,4179,Need Attention
+590,3710,Loyal
+591,7627,5-Star
+592,4501,Highest Potential
+593,6424,Need Attention
+594,3075,Need Attention
+595,4992,Need Attention
+596,5252,Loyal
+597,7444,Need Attention
+598,6919,Loyal
+599,3537,Loyal
+600,10277,Loyal
+601,2453,5-Star
+602,7972,Highest Potential
+603,895,Loyal
+604,1177,Loyal
+605,7141,Loyal
+606,7232,Need Attention
+607,8477,Loyal
+608,2457,Loyal
+609,988,Highest Potential
+610,7930,Need Attention
+611,4587,Loyal
+612,6682,Loyal
+613,6222,Need Attention
+614,10299,5-Star
+615,3083,Need Attention
+616,8953,Loyal
+617,1503,Highest Potential
+618,8650,Loyal
+619,10862,Loyal
+620,2782,Loyal
+621,6941,Loyal
+622,10972,Highest Potential
+623,10708,Need Attention
+624,6583,5-Star
+625,3641,Loyal
+626,10156,5-Star
+627,4299,5-Star
+628,3469,Loyal
+629,5063,Loyal
+630,10727,Highest Potential
+631,9624,Highest Potential
+632,5156,Highest Potential
+633,4376,Need Attention
+634,8923,5-Star
+635,8461,Need Attention
+636,6945,5-Star
+637,944,Loyal
+638,1907,5-Star
+639,701,Highest Potential
+640,3856,5-Star
+641,4149,Highest Potential
+642,2131,5-Star
+643,2942,Loyal
+644,1173,5-Star
+645,4381,Need Attention
+646,4611,5-Star
+647,3376,Need Attention
+648,4679,Highest Potential
+649,10928,Highest Potential
+650,4248,Highest Potential
+651,6728,Loyal
+652,6661,5-Star
+653,4725,Need Attention
+654,3277,Loyal
+655,5555,Highest Potential
+656,2564,Need Attention
+657,946,Loyal
+658,3867,Highest Potential
+659,6940,Need Attention
+660,55,Loyal
+661,7093,Need Attention
+662,5084,Highest Potential
+663,1777,Loyal
+664,8162,Loyal
+665,10826,Loyal
+666,8754,Loyal
+667,1987,Need Attention
+668,11007,Loyal
+669,7426,Need Attention
+670,9153,Highest Potential
+671,10379,Need Attention
+672,9204,5-Star
+673,3197,Highest Potential
+674,2920,5-Star
+675,6961,Need Attention
+676,4673,5-Star
+677,9937,Highest Potential
+678,8779,Loyal
+679,9596,Highest Potential
+680,2891,Highest Potential
+681,4910,5-Star
+682,75,Loyal
+683,10120,Need Attention
+684,6327,Highest Potential
+685,10142,5-Star
+686,9826,5-Star
+687,1501,5-Star
+688,10767,Highest Potential
+689,7279,Highest Potential
+690,7230,Loyal
+691,143,Highest Potential
+692,450,Loyal
+693,9316,Need Attention
+694,6379,Loyal
+695,9239,Need Attention
+696,8315,Need Attention
+697,2868,Loyal
+698,10888,Need Attention
+699,1277,Highest Potential
+700,9977,Highest Potential
+701,10196,Highest Potential
+702,6384,Highest Potential
+703,8029,Highest Potential
+704,968,Need Attention
+705,6988,5-Star
+706,4472,Need Attention
+707,6991,Loyal
+708,3336,Highest Potential
+709,4301,Loyal
+710,1940,Loyal
+711,1272,5-Star
+712,1388,Loyal
+713,1044,Loyal
+714,6969,Need Attention
+715,10479,5-Star
+716,3619,5-Star
+717,1715,Loyal
+718,10159,5-Star
+719,1463,Need Attention
+720,5114,5-Star
+721,4990,5-Star
+722,4329,Need Attention
+723,10936,5-Star
+724,4692,Loyal
+725,7212,Need Attention
+726,6086,Highest Potential
+727,437,Highest Potential
+728,11171,Need Attention
+729,11101,5-Star
+730,5329,Need Attention
+731,610,Loyal
+732,9384,Highest Potential
+733,5956,Need Attention
+734,10430,Highest Potential
+735,7875,Highest Potential
+736,7072,5-Star
+737,6255,Need Attention
+738,6516,Loyal
+739,5564,5-Star
+740,5682,5-Star
+741,7458,Loyal
+742,5237,Need Attention
+743,7761,Need Attention
+744,5278,Highest Potential
+745,3560,5-Star
+746,7235,Need Attention
+747,10548,Highest Potential
+748,2281,Need Attention
+749,4073,Highest Potential
+750,6974,Highest Potential
+751,7938,Need Attention
+752,7094,Highest Potential
+753,3667,5-Star
+754,7723,Highest Potential
+755,3870,5-Star
+756,4012,5-Star
+757,5909,Highest Potential
+758,10470,Loyal
+759,6488,Need Attention
+760,10270,Need Attention
+761,6887,Highest Potential
+762,6406,Highest Potential
+763,7573,Loyal
+764,4508,Highest Potential
+765,221,Loyal
+766,5331,5-Star
+767,1911,5-Star
+768,20,Need Attention
+769,8786,Loyal
+770,10582,Highest Potential
+771,1915,Highest Potential
+772,8897,Loyal
+773,2371,Loyal
+774,4303,Loyal
+775,6825,Loyal
+776,1072,Need Attention
+777,4964,Highest Potential
+778,2461,Need Attention
+779,10736,Highest Potential
+780,3194,Highest Potential
+781,10839,Need Attention
+782,49,Need Attention
+783,4290,Need Attention
+784,10219,Loyal
+785,4211,Loyal
+786,1135,Need Attention
+787,6299,Loyal
+788,10846,Need Attention
+789,347,Loyal
+790,6543,5-Star
+791,10446,5-Star
+792,3479,Loyal
+793,11075,Need Attention
+794,4442,Loyal
+795,199,Loyal
+796,6722,Highest Potential
+797,796,5-Star
+798,3749,5-Star
+799,8523,Need Attention
+800,310,Highest Potential
+801,8629,Loyal
+802,236,Loyal
+803,9930,Highest Potential
+804,3483,5-Star
+805,4599,Need Attention
+806,7326,Need Attention
+807,7352,Need Attention
+808,2350,5-Star
+809,9145,5-Star
+810,2964,Need Attention
+811,5585,Loyal
+812,9687,Highest Potential
+813,3732,5-Star
+814,6303,Highest Potential
+815,11176,Highest Potential
+816,2986,Need Attention
+817,7462,Loyal
+818,3900,Highest Potential
+819,7034,Need Attention
+820,9493,5-Star
+821,1143,Need Attention
+822,1,Need Attention
+823,3855,Loyal
+824,5536,5-Star
+825,5989,5-Star
+826,9499,5-Star
+827,6768,Loyal
+828,2150,5-Star
+829,6646,Need Attention
+830,4887,Need Attention
+831,8560,Loyal
+832,3321,Loyal
+833,11003,Need Attention
+834,10402,Loyal
+835,9904,5-Star
+836,6141,Loyal
+837,5687,5-Star
+838,10856,Loyal
+839,5121,Highest Potential
+840,4186,Need Attention
+841,368,Loyal
+842,3312,Need Attention
+843,11121,Loyal
+844,5332,Highest Potential
+845,5848,Highest Potential
+846,10343,5-Star
+847,5935,5-Star
+848,2895,Need Attention
+849,10262,Loyal
+850,7848,Loyal
+851,9477,Highest Potential
+852,4856,5-Star
+853,7186,Need Attention
+854,5794,Need Attention
+855,1456,5-Star
+856,4877,Need Attention
+857,425,Loyal
+858,3007,Loyal
+859,1031,5-Star
+860,4297,Need Attention
+861,807,Need Attention
+862,9553,Loyal
+863,4271,Loyal
+864,4120,Need Attention
+865,2036,Loyal
+866,115,Loyal
+867,4259,Need Attention
+868,8687,Loyal
+869,2447,Loyal
+870,10140,Highest Potential
+871,9353,Highest Potential
+872,3623,Need Attention
+873,738,Need Attention
+874,7631,Highest Potential
+875,4789,Highest Potential
+876,773,Loyal
+877,10602,Loyal
+878,1446,Highest Potential
+879,3270,Loyal
+880,8443,Need Attention
+881,9653,Loyal
+882,8916,Need Attention
+883,8017,Need Attention
+884,5830,5-Star
+885,4597,5-Star
+886,7023,Loyal
+887,8086,Need Attention
+888,8825,Loyal
+889,2930,Highest Potential
+890,1928,Loyal
+891,7108,Loyal
+892,10925,Highest Potential
+893,9960,Need Attention
+894,8800,5-Star
+895,9224,5-Star
+896,5519,Highest Potential
+897,5046,Highest Potential
+898,7037,Need Attention
+899,905,Need Attention
+900,8624,5-Star
+901,8945,Need Attention
+902,6445,Highest Potential
+903,2727,Need Attention
+904,6404,Loyal
+905,11074,Highest Potential
+906,10150,Highest Potential
+907,1968,Need Attention
+908,6534,Need Attention
+909,9485,Need Attention
+910,7053,5-Star
+911,4654,Highest Potential
+912,9760,5-Star
+913,1048,Loyal
+914,10619,5-Star
+915,9308,5-Star
+916,10505,Highest Potential
+917,8362,Highest Potential
+918,2625,Need Attention
+919,4637,5-Star
+920,9972,Need Attention
+921,4483,5-Star
+922,4487,Loyal
+923,4988,Need Attention
+924,8931,Highest Potential
+925,5871,Loyal
+926,2008,Highest Potential
+927,3139,Highest Potential
+928,10037,Highest Potential
+929,10673,Highest Potential
+930,5303,Highest Potential
+931,538,Need Attention
+932,7922,5-Star
+933,5692,Loyal
+934,4843,Highest Potential
+935,6383,Need Attention
+936,1628,Highest Potential
+937,1204,5-Star
+938,3673,Highest Potential
+939,760,Highest Potential
+940,8957,5-Star
+941,4128,Highest Potential
+942,6810,5-Star
+943,5386,5-Star
+944,8700,Loyal
+945,3202,5-Star
+946,1328,Highest Potential
+947,8405,Need Attention
+948,6515,Need Attention
+949,2882,5-Star
+950,7574,Need Attention
+951,6387,Need Attention
+952,5320,Loyal
+953,5048,Loyal
+954,8146,Need Attention
+955,10031,Loyal
+956,5748,Loyal
+957,2134,Loyal
+958,1523,Need Attention
+959,9665,Loyal
+960,4640,5-Star
+961,3635,Need Attention
+962,3547,Loyal
+963,2456,Need Attention
+964,5633,Need Attention
+965,7801,Highest Potential
+966,10489,Highest Potential
+967,7011,Loyal
+968,2620,Loyal
+969,3933,Loyal
+970,10981,Highest Potential
+971,1734,Loyal
+972,10995,Loyal
+973,6357,Need Attention
+974,9209,5-Star
+975,10286,Highest Potential
+976,2611,5-Star
+977,1600,Need Attention
+978,3308,Need Attention
+979,5407,Highest Potential
+980,2166,Loyal
+981,3955,Need Attention
+982,6634,Need Attention
+983,3056,Highest Potential
+984,5718,Highest Potential
+985,6872,Need Attention
+986,8164,Highest Potential
+987,4580,Highest Potential
+988,9305,5-Star
+989,453,Need Attention
+990,8545,Highest Potential
+991,9850,Loyal
+992,7378,Loyal
+993,7646,Highest Potential
+994,1640,Need Attention
+995,5184,Need Attention
+996,8492,Highest Potential
+997,11188,Need Attention
+998,1212,Highest Potential
+999,9097,Need Attention
+1000,10473,5-Star
+1001,7962,Highest Potential
+1002,9984,Loyal
+1003,5527,Loyal
+1004,6374,Loyal
+1005,7453,Loyal
+1006,8952,5-Star
+1007,241,5-Star
+1008,8975,Need Attention
+1009,6119,Loyal
+1010,5236,5-Star
+1011,5723,Need Attention
+1012,1710,Loyal
+1013,1970,Loyal
+1014,5313,Need Attention
+1015,10634,Need Attention
+1016,7010,Highest Potential
+1017,8562,Loyal
+1018,3158,Loyal
+1019,4436,Loyal
+1020,5287,Need Attention
+1021,2445,Loyal
+1022,6059,5-Star
+1023,4550,Need Attention
+1024,4240,Loyal
+1025,8911,Loyal
+1026,3706,Need Attention
+1027,3628,Loyal
+1028,10175,Need Attention
+1029,8985,5-Star
+1030,5204,5-Star
+1031,9220,5-Star
+1032,9888,Highest Potential
+1033,5263,Loyal
+1034,1020,Highest Potential
+1035,9503,Loyal
+1036,10613,Need Attention
+1037,67,Need Attention
+1038,6019,Need Attention
+1039,5863,Loyal
+1040,3717,Highest Potential
+1041,6730,Loyal
+1042,10749,Loyal
+1043,4998,Highest Potential
+1044,6287,Need Attention
+1045,5985,Loyal
+1046,4754,Need Attention
+1047,4002,Highest Potential
+1048,8870,Loyal
+1049,966,Loyal
+1050,4767,Highest Potential
+1051,9725,Need Attention
+1052,4475,5-Star
+1053,5740,Loyal
+1054,5731,Loyal
+1055,7290,5-Star
+1056,3846,Loyal
+1057,8104,Need Attention
+1058,4507,5-Star
+1059,11013,5-Star
+1060,4491,5-Star
+1061,3759,Highest Potential
+1062,1162,Loyal
+1063,2055,Need Attention
+1064,10766,Highest Potential
+1065,4415,Loyal
+1066,3005,Highest Potential
+1067,2223,5-Star
+1068,4817,Loyal
+1069,2875,Highest Potential
+1070,10536,Need Attention
+1071,11112,5-Star
+1072,3807,5-Star
+1073,9197,Need Attention
+1074,10832,Loyal
+1075,6421,5-Star
+1076,4207,5-Star
+1077,577,Need Attention
+1078,10855,Need Attention
+1079,3081,Loyal
+1080,3535,Highest Potential
+1081,247,Loyal
+1082,8707,5-Star
+1083,9523,Need Attention
+1084,6072,5-Star
+1085,6295,5-Star
+1086,10914,Need Attention
+1087,1509,5-Star
+1088,5577,Need Attention
+1089,7348,Highest Potential
+1090,1127,Highest Potential
+1091,1833,Need Attention
+1092,4944,Highest Potential
+1093,9080,Loyal
+1094,6466,Need Attention
+1095,9964,Need Attention
+1096,4790,Highest Potential
+1097,10245,5-Star
+1098,1109,Loyal
+1099,6001,5-Star
+1100,5538,Highest Potential
+1101,10552,Loyal
+1102,1545,Need Attention
+1103,7409,Need Attention
+1104,4444,Need Attention
+1105,146,Highest Potential
+1106,6271,Need Attention
+1107,10065,Need Attention
+1108,4741,Highest Potential
+1109,246,Need Attention
+1110,375,5-Star
+1111,1524,5-Star
+1112,10022,Need Attention
+1113,7451,Highest Potential
+1114,11010,Need Attention
+1115,4356,Highest Potential
+1116,3885,Need Attention
+1117,1175,Need Attention
+1118,880,Loyal
+1119,2320,Need Attention
+1120,850,Highest Potential
+1121,4713,Loyal
+1122,675,Loyal
+1123,5025,Need Attention
+1124,2308,Loyal
+1125,5995,Loyal
+1126,6749,5-Star
+1127,1010,Need Attention
+1128,8977,Loyal
+1129,4756,Highest Potential
+1130,3412,5-Star
+1131,606,Need Attention
+1132,5961,Need Attention
+1133,2975,5-Star
+1134,2894,Highest Potential
+1135,7613,Need Attention
+1136,10542,Loyal
+1137,8015,5-Star
+1138,10617,Need Attention
+1139,11166,Loyal
+1140,849,Loyal
+1141,523,Loyal
+1142,4066,Need Attention
+1143,8414,Need Attention
+1144,819,Highest Potential
+1145,4961,Need Attention
+1146,749,Need Attention
+1147,5430,Loyal
+1148,7755,Need Attention
+1149,10525,Loyal
+1150,1453,Highest Potential
+1151,8310,5-Star
+1152,10710,Loyal
+1153,5031,5-Star
+1154,2613,Need Attention
+1155,213,Need Attention
+1156,967,Loyal
+1157,1077,5-Star
+1158,7959,Highest Potential
+1159,640,5-Star
+1160,4252,Need Attention
+1161,8432,Loyal
+1162,6218,Loyal
+1163,6905,5-Star
+1164,5922,Need Attention
+1165,3598,Loyal
+1166,6116,Loyal
+1167,6263,Loyal
+1168,10486,5-Star
+1169,2410,Highest Potential
+1170,193,Need Attention
+1171,3363,Need Attention
+1172,8278,5-Star
+1173,10660,Need Attention
+1174,8686,Loyal
+1175,1604,Need Attention
+1176,5907,Loyal
+1177,10669,Loyal
+1178,2918,Loyal
+1179,5735,Highest Potential
+1180,359,Loyal
+1181,8387,Loyal
+1182,1829,5-Star
+1183,3839,Loyal
+1184,9392,Need Attention
+1185,2292,Need Attention
+1186,10466,Need Attention
+1187,9855,Highest Potential
+1188,4088,Loyal
+1189,5231,Need Attention
+1190,590,5-Star
+1191,8732,5-Star
+1192,2315,Need Attention
+1193,3515,Need Attention
+1194,2245,Loyal
+1195,6283,5-Star
+1196,2246,Need Attention
+1197,6606,5-Star
+1198,5545,Highest Potential
+1199,7342,5-Star
+1200,837,Need Attention
+1201,9500,5-Star
+1202,3602,Need Attention
+1203,234,Loyal
+1204,2995,Highest Potential
+1205,1118,Loyal
+1206,7789,Highest Potential
+1207,3068,Need Attention
+1208,8955,Need Attention
+1209,945,Loyal
+1210,5644,Need Attention
+1211,7192,Loyal
+1212,2324,Highest Potential
+1213,697,5-Star
+1214,3439,Loyal
+1215,1506,Loyal
+1216,232,Loyal
+1217,8876,Loyal
+1218,4500,Highest Potential
+1219,9739,Loyal
+1220,10395,Loyal
+1221,1176,Need Attention
+1222,1627,5-Star
+1223,938,Need Attention
+1224,2740,Need Attention
+1225,257,5-Star
+1226,4058,Highest Potential
+1227,7736,Loyal
+1228,8210,Need Attention
+1229,833,Need Attention
+1230,6230,Loyal
+1231,7325,Loyal
+1232,1307,Need Attention
+1233,1502,Loyal
+1234,6211,Need Attention
+1235,843,Highest Potential
+1236,4174,Need Attention
+1237,9757,Highest Potential
+1238,6918,Loyal
+1239,286,Need Attention
+1240,11086,Need Attention
+1241,1921,Need Attention
+1242,4138,Highest Potential
+1243,7718,Highest Potential
+1244,1291,Loyal
+1245,6862,Need Attention
+1246,4136,Loyal
+1247,803,Loyal
+1248,4298,Need Attention
+1249,10833,Highest Potential
+1250,9606,Highest Potential
+1251,8534,Highest Potential
+1252,5153,5-Star
+1253,961,Highest Potential
+1254,5011,Highest Potential
+1255,6653,Loyal
+1256,9094,Loyal
+1257,810,Highest Potential
+1258,5493,Need Attention
+1259,2147,5-Star
+1260,5107,Need Attention
+1261,3979,5-Star
+1262,6049,Highest Potential
+1263,8147,Loyal
+1264,1857,Need Attention
+1265,3910,Highest Potential
+1266,5207,5-Star
+1267,11114,Loyal
+1268,5429,Need Attention
+1269,9400,Highest Potential
+1270,1740,Highest Potential
+1271,7488,5-Star
+1272,195,Loyal
+1273,635,Loyal
+1274,7527,Loyal
+1275,10319,5-Star
+1276,2296,Need Attention
+1277,10637,Loyal
+1278,2931,5-Star
+1279,907,Need Attention
+1280,3698,5-Star
+1281,9516,5-Star
+1282,679,Loyal
+1283,7384,Loyal
+1284,5043,Loyal
+1285,5267,Loyal
+1286,339,Loyal
+1287,2516,Loyal
+1288,9010,5-Star
+1289,378,Loyal
+1290,4808,Need Attention
+1291,5068,Need Attention
+1292,7628,Need Attention
+1293,7128,Need Attention
+1294,2811,Need Attention
+1295,3551,Need Attention
+1296,1663,Need Attention
+1297,5543,Highest Potential
+1298,1577,Highest Potential
+1299,10641,Loyal
+1300,5336,Highest Potential
+1301,6024,5-Star
+1302,1878,Need Attention
+1303,3099,Loyal
+1304,6055,5-Star
+1305,5841,Highest Potential
+1306,3972,Loyal
+1307,4394,Highest Potential
+1308,5758,Highest Potential
+1309,6658,Highest Potential
+1310,4603,Highest Potential
+1311,8427,5-Star
+1312,10260,Need Attention
+1313,7143,Highest Potential
+1314,8789,Need Attention
+1315,6197,Loyal
+1316,4554,Need Attention
+1317,4937,Need Attention
+1318,1920,Need Attention
+1319,8749,Need Attention
+1320,1650,5-Star
+1321,10377,Loyal
+1322,9206,Highest Potential
+1323,10971,Loyal
+1324,6398,Need Attention
+1325,9212,5-Star
+1326,7937,Need Attention
+1327,839,Need Attention
+1328,4246,Need Attention
+1329,158,Highest Potential
+1330,4832,Need Attention
+1331,5621,Loyal
+1332,1945,Highest Potential
+1333,5147,Highest Potential
+1334,2535,5-Star
+1335,11039,Need Attention
+1336,9495,5-Star
+1337,9635,Need Attention
+1338,2173,Need Attention
+1339,942,Loyal
+1340,9386,Need Attention
+1341,5510,Loyal
+1342,873,5-Star
+1343,2253,Loyal
+1344,5181,Loyal
+1345,979,Loyal
+1346,10390,Loyal
+1347,4698,Loyal
+1348,7793,Highest Potential
+1349,1745,5-Star
+1350,10590,5-Star
+1351,5080,Highest Potential
+1352,8369,Loyal
+1353,5232,Need Attention
+1354,2407,5-Star
+1355,3834,5-Star
+1356,7912,Loyal
+1357,7712,Highest Potential
+1358,1065,Highest Potential
+1359,7275,Need Attention
+1360,1343,Loyal
+1361,1384,Need Attention
+1362,9967,Loyal
+1363,6181,5-Star
+1364,10507,Highest Potential
+1365,2674,5-Star
+1366,2698,Need Attention
+1367,3231,Need Attention
+1368,4096,Need Attention
+1369,10476,Need Attention
+1370,5948,Need Attention
+1371,9140,Need Attention
+1372,10258,Loyal
+1373,5675,Loyal
+1374,4743,5-Star
+1375,8805,Loyal
+1376,1542,Need Attention
+1377,6770,Need Attention
+1378,8773,Loyal
+1379,10475,Loyal
+1380,10420,Need Attention
+1381,7514,Loyal
+1382,2902,Loyal
+1383,4345,Need Attention
+1384,793,Loyal
+1385,10909,Highest Potential
+1386,3769,Need Attention
+1387,8702,Need Attention
+1388,4791,Loyal
+1389,2963,Highest Potential
+1390,8216,Need Attention
+1391,8140,Need Attention
+1392,10146,Need Attention
+1393,5289,Loyal
+1394,2587,Need Attention
+1395,4405,Highest Potential
+1396,8663,Need Attention
+1397,2589,Need Attention
+1398,3421,5-Star
+1399,10490,Loyal
+1400,4094,Loyal
+1401,9958,Highest Potential
+1402,2534,Need Attention
+1403,4188,Loyal
+1404,6613,Loyal
+1405,10827,Loyal
+1406,5491,Loyal
+1407,8402,Highest Potential
+1408,8783,Loyal
+1409,10010,Loyal
+1410,618,5-Star
+1411,9121,5-Star
+1412,361,Need Attention
+1413,4310,Highest Potential
+1414,2678,Loyal
+1415,6376,Loyal
+1416,524,Loyal
+1417,10341,Need Attention
+1418,5654,Need Attention
+1419,4098,Need Attention
+1420,5824,Need Attention
+1421,7000,Highest Potential
+1422,2561,5-Star
+1423,5229,Need Attention
+1424,4086,Loyal
+1425,2428,Loyal
+1426,8254,Loyal
+1427,2836,Need Attention
+1428,8418,Need Attention
+1429,1362,Loyal
+1430,7152,Loyal
+1431,10033,Need Attention
+1432,9349,Highest Potential
+1433,274,Need Attention
+1434,3388,Need Attention
+1435,922,Loyal
+1436,8588,Loyal
+1437,2518,Loyal
+1438,574,Need Attention
+1439,3220,Loyal
+1440,5967,Loyal
+1441,1183,Need Attention
+1442,6856,Loyal
+1443,4530,5-Star
+1444,1553,Highest Potential
+1445,4682,Need Attention
+1446,8204,5-Star
+1447,5221,5-Star
+1448,1232,Highest Potential
+1449,1927,Highest Potential
+1450,5788,Loyal
+1451,6652,Highest Potential
+1452,6246,Highest Potential
+1453,5975,Need Attention
+1454,6875,Loyal
+1455,4399,Highest Potential
+1456,4042,Loyal
+1457,2157,Loyal
+1458,10133,Highest Potential
+1459,2525,Loyal
+1460,8233,Highest Potential
+1461,9483,Highest Potential
+1462,2945,Need Attention
+1463,10403,Need Attention
+1464,5074,Loyal
+1465,10524,Loyal
+1466,4690,Loyal
+1467,7521,5-Star
+1468,7196,Need Attention
+1469,4406,5-Star
+1470,9672,Need Attention
+1471,4864,Loyal
+1472,4706,Loyal
+1473,4070,5-Star
+1474,25,5-Star
+1475,3697,Loyal
+1476,217,5-Star
+1477,4220,Need Attention
+1478,5286,Need Attention
+1479,9559,Highest Potential
+1480,2849,5-Star
+1481,7787,5-Star
+1482,3102,Need Attention
+1483,5868,Need Attention
+1484,8370,5-Star
+1485,9988,5-Star
+1486,2939,Highest Potential
+1487,5529,Need Attention
+1488,9743,5-Star
+1489,5763,Need Attention
+1490,3478,Highest Potential
+1491,7494,Loyal
+1492,1763,5-Star
+1493,7250,Need Attention
+1494,2005,Need Attention
+1495,10770,Highest Potential
+1496,6885,Need Attention
+1497,2072,5-Star
+1498,9463,5-Star
+1499,6318,5-Star
+1500,4093,Loyal
+1501,5751,Need Attention
+1502,3340,Loyal
+1503,3594,Loyal
+1504,3584,5-Star
+1505,3643,Highest Potential
+1506,851,Loyal
+1507,7706,5-Star
+1508,3967,Highest Potential
+1509,10128,5-Star
+1510,486,Highest Potential
+1511,9,Loyal
+1512,9451,5-Star
+1513,9264,Highest Potential
+1514,3865,Loyal
+1515,2853,Need Attention
+1516,1490,5-Star
+1517,6310,Need Attention
+1518,10380,Need Attention
+1519,3887,Loyal
+1520,4278,5-Star
+1521,8643,5-Star
+1522,1998,Need Attention
+1523,10795,Need Attention
+1524,11110,Loyal
+1525,2408,5-Star
+1526,202,Highest Potential
+1527,7998,Loyal
+1528,830,Highest Potential
+1529,3536,Loyal
+1530,6050,5-Star
+1531,125,Loyal
+1532,3463,Highest Potential
+1533,2804,Loyal
+1534,3745,Loyal
+1535,9771,Loyal
+1536,451,Need Attention
+1537,10530,Highest Potential
+1538,1079,5-Star
+1539,8920,5-Star
+1540,6678,Need Attention
+1541,3852,5-Star
+1542,528,5-Star
+1543,73,Loyal
+1544,5589,5-Star
+1545,10212,Loyal
+1546,6365,Need Attention
+1547,5636,Loyal
+1548,591,5-Star
+1549,2217,Loyal
+1550,2544,Need Attention
+1551,7725,Highest Potential
+1552,8091,5-Star
+1553,7321,Highest Potential
+1554,5462,5-Star
+1555,7791,Need Attention
+1556,955,Loyal
+1557,4037,Loyal
+1558,6642,Loyal
+1559,2793,Highest Potential
+1560,5424,Loyal
+1561,879,Need Attention
+1562,9530,Loyal
+1563,4828,Highest Potential
+1564,10699,Need Attention
+1565,1497,Loyal
+1566,7476,5-Star
+1567,4390,Highest Potential
+1568,10478,Loyal
+1569,1081,5-Star
+1570,4261,5-Star
+1571,9916,Loyal
+1572,5350,Highest Potential
+1573,8135,Need Attention
+1574,8685,Loyal
+1575,4967,Loyal
+1576,2130,Need Attention
+1577,9298,Highest Potential
+1578,8175,Loyal
+1579,6257,Loyal
+1580,3790,Need Attention
+1581,9952,Highest Potential
+1582,3503,Highest Potential
+1583,5223,Need Attention
+1584,4608,Highest Potential
+1585,1626,Need Attention
+1586,4764,Loyal
+1587,2471,Need Attention
+1588,5892,Loyal
+1589,2612,Highest Potential
+1590,4971,Loyal
+1591,5185,5-Star
+1592,10069,Loyal
+1593,2262,Need Attention
+1594,1131,Need Attention
+1595,1041,Loyal
+1596,24,Need Attention
+1597,3409,Need Attention
+1598,7022,5-Star
+1599,7943,Need Attention
+1600,5272,Loyal
+1601,5453,5-Star
+1602,2565,5-Star
+1603,800,Need Attention
+1604,11092,Need Attention
+1605,5062,Need Attention
+1606,8969,5-Star
+1607,4656,Loyal
+1608,4480,Need Attention
+1609,9971,Highest Potential
+1610,6729,5-Star
+1611,1773,Loyal
+1612,9242,Highest Potential
+1613,1764,Need Attention
+1614,6215,Need Attention
+1615,10099,Highest Potential
+1616,5423,Need Attention
+1617,940,Need Attention
+1618,3011,Need Attention
+1619,3298,5-Star
+1620,8286,Need Attention
+1621,9668,Loyal
+1622,5120,5-Star
+1623,6097,Loyal
+1624,7019,Loyal
+1625,7408,Need Attention
+1626,8041,5-Star
+1627,252,Loyal
+1628,9986,Need Attention
+1629,3276,Need Attention
+1630,3859,Highest Potential
+1631,3570,Need Attention
+1632,3783,Need Attention
+1633,10207,Loyal
+1634,10906,Need Attention
+1635,3427,5-Star
+1636,5209,Loyal
+1637,10711,Highest Potential
+1638,10785,Need Attention
+1639,2814,Loyal
+1640,6866,Need Attention
+1641,1665,Highest Potential
+1642,6575,Loyal
+1643,3829,Need Attention
+1644,3091,Highest Potential
+1645,10141,Loyal
+1646,5177,Need Attention
+1647,7005,Highest Potential
+1648,6409,5-Star
+1649,7485,Need Attention
+1650,8079,Need Attention
+1651,8395,5-Star
+1652,10352,Loyal
+1653,4931,5-Star
+1654,13,Need Attention
+1655,1834,Need Attention
+1656,2285,Loyal
+1657,2295,Highest Potential
+1658,1378,Loyal
+1659,2781,Highest Potential
+1660,1165,Loyal
+1661,1404,Loyal
+1662,6457,Highest Potential
+1663,2639,Need Attention
+1664,8299,Need Attention
+1665,6437,Loyal
+1666,6912,Highest Potential
+1667,7327,Need Attention
+1668,5299,Highest Potential
+1669,4127,5-Star
+1670,8143,Need Attention
+1671,1964,Highest Potential
+1672,3690,5-Star
+1673,3433,5-Star
+1674,3389,5-Star
+1675,4712,Loyal
+1676,1170,Loyal
+1677,6347,Loyal
+1678,4065,Loyal
+1679,8230,Need Attention
+1680,1215,Highest Potential
+1681,5939,Need Attention
+1682,2156,Loyal
+1683,7788,Need Attention
+1684,10323,Need Attention
+1685,7947,Need Attention
+1686,1891,5-Star
+1687,2570,Highest Potential
+1688,9256,5-Star
+1689,295,Highest Potential
+1690,7397,Loyal
+1691,6349,5-Star
+1692,10790,Loyal
+1693,10398,Loyal
+1694,2431,Loyal
+1695,550,5-Star
+1696,1890,Loyal
+1697,10742,5-Star
+1698,10356,Loyal
+1699,4676,Highest Potential
+1700,8852,5-Star
+1701,3565,Need Attention
+1702,5294,Need Attention
+1703,1958,Need Attention
+1704,7349,Loyal
+1705,8799,Need Attention
+1706,1351,5-Star
+1707,1045,Loyal
+1708,7732,Highest Potential
+1709,8070,Need Attention
+1710,477,Highest Potential
+1711,7832,Highest Potential
+1712,2202,Loyal
+1713,7396,5-Star
+1714,4055,Need Attention
+1715,10340,Loyal
+1716,10091,5-Star
+1717,7629,Need Attention
+1718,10640,Need Attention
+1719,3498,5-Star
+1720,6742,Loyal
+1721,1172,5-Star
+1722,569,Highest Potential
+1723,4686,Highest Potential
+1724,1381,Need Attention
+1725,2634,Need Attention
+1726,10905,Loyal
+1727,1744,Loyal
+1728,1000,5-Star
+1729,3828,5-Star
+1730,8605,Need Attention
+1731,10304,Loyal
+1732,4351,Loyal
+1733,10129,Highest Potential
+1734,2499,5-Star
+1735,10092,5-Star
+1736,7500,Highest Potential
+1737,5796,Highest Potential
+1738,10556,Need Attention
+1739,1064,Need Attention
+1740,48,Need Attention
+1741,7610,Loyal
+1742,263,Need Attention
+1743,10814,5-Star
+1744,9710,5-Star
+1745,9292,5-Star
+1746,10250,Loyal
+1747,7881,Highest Potential
+1748,5847,5-Star
+1749,737,5-Star
+1750,3571,5-Star
+1751,7807,Loyal
+1752,3878,Need Attention
+1753,5092,Loyal
+1754,2154,Loyal
+1755,5394,Loyal
+1756,3798,Need Attention
+1757,3524,Need Attention
+1758,5247,Need Attention
+1759,5883,Highest Potential
+1760,2118,Highest Potential
+1761,8812,Loyal
+1762,6616,Need Attention
+1763,2797,Highest Potential
+1764,4328,Need Attention
+1765,9167,5-Star
+1766,10560,Need Attention
+1767,2631,5-Star
+1768,8312,Need Attention
+1769,5534,Need Attention
+1770,5093,Loyal
+1771,7592,Loyal
+1772,8895,5-Star
+1773,8584,5-Star
+1774,2694,Need Attention
+1775,8910,Loyal
+1776,7433,Loyal
+1777,164,Loyal
+1778,10477,Need Attention
+1779,2681,Highest Potential
+1780,5150,Loyal
+1781,5283,Need Attention
+1782,9645,5-Star
+1783,10678,Highest Potential
+1784,7261,Loyal
+1785,9648,Loyal
+1786,2870,Loyal
+1787,8008,Need Attention
+1788,1513,5-Star
+1789,6173,Highest Potential
+1790,1419,Need Attention
+1791,9150,Need Attention
+1792,7960,Highest Potential
+1793,1250,Need Attention
+1794,9905,Loyal
+1795,10691,Loyal
+1796,7002,Need Attention
+1797,2952,Need Attention
+1798,8439,Highest Potential
+1799,762,Highest Potential
+1800,2831,Highest Potential
+1801,6977,5-Star
+1802,6289,Loyal
+1803,4168,Loyal
+1804,8397,Need Attention
+1805,9284,5-Star
+1806,6237,Need Attention
+1807,3130,Loyal
+1808,1619,Highest Potential
+1809,1990,5-Star
+1810,5513,Loyal
+1811,269,5-Star
+1812,8093,Highest Potential
+1813,10513,5-Star
+1814,10177,5-Star
+1815,2549,Loyal
+1816,5782,Highest Potential
+1817,10057,Highest Potential
+1818,10307,Need Attention
+1819,8566,Need Attention
+1820,2415,Highest Potential
+1821,5684,Need Attention
+1822,8334,Need Attention
+1823,9166,Highest Potential
+1824,1440,5-Star
+1825,78,Need Attention
+1826,5441,Need Attention
+1827,5302,5-Star
+1828,4687,5-Star
+1829,1087,Loyal
+1830,6859,Need Attention
+1831,9860,Loyal
+1832,7129,5-Star
+1833,5866,Need Attention
+1834,10521,Need Attention
+1835,7393,Loyal
+1836,7849,Highest Potential
+1837,332,Loyal
+1838,9847,Loyal
+1839,531,5-Star
+1840,9576,Loyal
+1841,6906,5-Star
+1842,7419,Need Attention
+1843,3170,Highest Potential
+1844,8527,Need Attention
+1845,7872,5-Star
+1846,9931,Need Attention
+1847,10595,Loyal
+1848,4609,Need Attention
+1849,5010,Need Attention
+1850,4427,5-Star
+1851,11148,Loyal
+1852,1168,5-Star
+1853,9595,5-Star
+1854,10163,Highest Potential
+1855,2886,Highest Potential
+1856,6710,Loyal
+1857,5316,Loyal
+1858,9029,5-Star
+1859,521,Loyal
+1860,1459,5-Star
+1861,10241,Need Attention
+1862,1630,Need Attention
+1863,3254,Highest Potential
+1864,9064,5-Star
+1865,3678,5-Star
+1866,4227,Need Attention
+1867,9467,Need Attention
+1868,8486,Loyal
+1869,2186,Highest Potential
+1870,3286,Need Attention
+1871,8602,5-Star
+1872,3722,Need Attention
+1873,6715,5-Star
+1874,4796,Need Attention
+1875,9612,Need Attention
+1876,3766,Loyal
+1877,1399,Highest Potential
+1878,1570,5-Star
+1879,3426,5-Star
+1880,3074,5-Star
+1881,8341,Need Attention
+1882,5180,Need Attention
+1883,6461,5-Star
+1884,7679,Need Attention
+1885,10702,Loyal
+1886,7505,Need Attention
+1887,5113,Highest Potential
+1888,10858,Highest Potential
+1889,2961,Loyal
+1890,2747,5-Star
+1891,3010,Highest Potential
+1892,5790,Loyal
+1893,6892,Highest Potential
+1894,1743,Highest Potential
+1895,3578,Need Attention
+1896,8462,Loyal
+1897,5558,Highest Potential
+1898,4619,Highest Potential
+1899,8780,Loyal
+1900,10789,Loyal
+1901,10779,Need Attention
+1902,5896,Highest Potential
+1903,2337,Need Attention
+1904,10951,Need Attention
+1905,544,5-Star
+1906,17,Highest Potential
+1907,10680,Need Attention
+1908,3265,Loyal
+1909,5623,Need Attention
+1910,5832,Highest Potential
+1911,5544,5-Star
+1912,6417,5-Star
+1913,5831,5-Star
+1914,7101,5-Star
+1915,10176,Loyal
+1916,2326,Loyal
+1917,4385,Loyal
+1918,2929,Loyal
+1919,10686,Loyal
+1920,2546,Need Attention
+1921,3283,Highest Potential
+1922,3138,5-Star
+1923,4994,Highest Potential
+1924,7966,5-Star
+1925,3112,Need Attention
+1926,10872,5-Star
+1927,2181,5-Star
+1928,1867,5-Star
+1929,1518,Highest Potential
+1930,5734,Need Attention
+1931,2878,Need Attention
+1932,1458,Need Attention
+1933,7007,Need Attention
+1934,6200,5-Star
+1935,1403,Loyal
+1936,4827,Loyal
+1937,6250,5-Star
+1938,9291,Need Attention
+1939,2478,Need Attention
+1940,1139,Highest Potential
+1941,5138,Loyal
+1942,5393,Loyal
+1943,10413,Highest Potential
+1944,5015,Loyal
+1945,10868,5-Star
+1946,10676,5-Star
+1947,2495,Highest Potential
+1948,7842,Loyal
+1949,9955,Loyal
+1950,6663,Loyal
+1951,2162,Need Attention
+1952,3434,Highest Potential
+1953,7919,5-Star
+1954,5626,Need Attention
+1955,6428,Highest Potential
+1956,8514,Need Attention
+1957,10448,Loyal
+1958,2109,5-Star
+1959,7530,Need Attention
+1960,8925,Highest Potential
+1961,3009,5-Star
+1962,6355,Need Attention
+1963,3517,Loyal
+1964,1158,Need Attention
+1965,6203,Highest Potential
+1966,7165,Highest Potential
+1967,3595,Highest Potential
+1968,8537,5-Star
+1969,4331,Highest Potential
+1970,6281,5-Star
+1971,4338,Need Attention
+1972,2452,Loyal
+1973,9507,Loyal
+1974,8360,Need Attention
+1975,10311,Need Attention
+1976,5117,Loyal
+1977,4867,Need Attention
+1978,9289,Need Attention
+1979,10913,Loyal
+1980,3032,Loyal
+1981,8524,Loyal
+1982,3334,Highest Potential
+1983,4470,Loyal
+1984,1406,Loyal
+1985,8619,Loyal
+1986,10821,Loyal
+1987,4552,Loyal
+1988,898,Need Attention
+1989,9797,Need Attention
+1990,10949,Highest Potential
+1991,8212,Loyal
+1992,6248,Highest Potential
+1993,10164,Highest Potential
+1994,4547,Loyal
+1995,6815,Highest Potential
+1996,4122,5-Star
+1997,10841,Loyal
+1998,5370,Loyal
+1999,176,Need Attention
+2000,4860,Loyal
+2001,10757,Need Attention
+2002,4023,Loyal
+2003,6679,Need Attention
+2004,9923,Need Attention
+2005,7181,Need Attention
+2006,3599,5-Star
+2007,405,Loyal
+2008,6870,Need Attention
+2009,832,Highest Potential
+2010,2002,5-Star
+2011,3657,Loyal
+2012,500,Highest Potential
+2013,1951,Loyal
+2014,3262,5-Star
+2015,4102,Loyal
+2016,7042,Loyal
+2017,10598,Loyal
+2018,255,Need Attention
+2019,2375,Loyal
+2020,9829,Need Attention
+2021,6214,Loyal
+2022,4954,Need Attention
+2023,7861,Highest Potential
+2024,4837,5-Star
+2025,9423,Need Attention
+2026,4198,Loyal
+2027,153,Need Attention
+2028,9323,5-Star
+2029,10001,Loyal
+2030,3945,5-Star
+2031,3799,Highest Potential
+2032,8625,Need Attention
+2033,3491,5-Star
+2034,983,Need Attention
+2035,9119,Need Attention
+2036,4786,5-Star
+2037,5872,Loyal
+2038,6568,Loyal
+2039,5628,5-Star
+2040,5631,Loyal
+2041,4974,5-Star
+2042,8416,Need Attention
+2043,5454,Need Attention
+2044,4095,Loyal
+2045,5474,Need Attention
+2046,4268,Need Attention
+2047,10701,Highest Potential
+2048,3507,5-Star
+2049,2079,Highest Potential
+2050,626,Loyal
+2051,4426,Need Attention
+2052,2591,Highest Potential
+2053,10509,Need Attention
+2054,6382,Need Attention
+2055,6673,Loyal
+2056,7441,5-Star
+2057,1071,Highest Potential
+2058,10061,5-Star
+2059,7187,Loyal
+2060,8775,Need Attention
+2061,1612,Loyal
+2062,2345,Highest Potential
+2063,322,Loyal
+2064,10897,5-Star
+2065,123,5-Star
+2066,6103,Need Attention
+2067,7899,5-Star
+2068,10500,Need Attention
+2069,1655,Need Attention
+2070,2406,Need Attention
+2071,2712,Highest Potential
+2072,5517,Need Attention
+2073,10643,Loyal
+2074,2254,5-Star
+2075,10281,Highest Potential
+2076,6958,Loyal
+2077,954,Need Attention
+2078,5079,Loyal
+2079,10339,Loyal
+2080,4643,Loyal
+2081,3117,Need Attention
+2082,6497,Loyal
+2083,5396,5-Star
+2084,5250,Highest Potential
+2085,1052,5-Star
+2086,2802,5-Star
+2087,6343,Highest Potential
+2088,6507,Need Attention
+2089,7901,Need Attention
+2090,4865,Need Attention
+2091,2686,Need Attention
+2092,3107,Need Attention
+2093,7734,5-Star
+2094,1146,5-Star
+2095,11031,Loyal
+2096,7428,Highest Potential
+2097,975,Loyal
+2098,1103,5-Star
+2099,3422,5-Star
+2100,1055,Need Attention
+2101,6544,Highest Potential
+2102,1241,Loyal
+2103,2909,Highest Potential
+2104,5802,Loyal
+2105,1407,Loyal
+2106,6183,Loyal
+2107,340,5-Star
+2108,5991,Loyal
+2109,3104,5-Star
+2110,9729,Loyal
+2111,1008,5-Star
+2112,11091,Need Attention
+2113,3969,Need Attention
+2114,1916,Loyal
+2115,9907,Highest Potential
+2116,87,Need Attention
+2117,8659,Highest Potential
+2118,6262,5-Star
+2119,6147,Loyal
+2120,8832,Loyal
+2121,10067,Need Attention
+2122,7532,Loyal
+2123,4915,Loyal
+2124,2115,Need Attention
+2125,2088,Highest Potential
+2126,2493,Highest Potential
+2127,6292,5-Star
+2128,1631,5-Star
+2129,10104,Need Attention
+2130,3006,Loyal
+2131,3919,5-Star
+2132,11181,Highest Potential
+2133,642,Loyal
+2134,4369,Highest Potential
+2135,10127,Need Attention
+2136,271,Need Attention
+2137,4973,Need Attention
+2138,2948,Need Attention
+2139,2715,Loyal
+2140,10432,Need Attention
+2141,9216,Need Attention
+2142,7124,Loyal
+2143,9727,Need Attention
+2144,5136,Highest Potential
+2145,9790,Highest Potential
+2146,1818,Need Attention
+2147,1100,Need Attention
+2148,7873,Loyal
+2149,10609,Need Attention
+2150,6950,Need Attention
+2151,7233,5-Star
+2152,9481,Need Attention
+2153,7699,Need Attention
+2154,2711,Loyal
+2155,8933,Need Attention
+2156,8726,Need Attention
+2157,1515,Need Attention
+2158,5186,Highest Potential
+2159,10157,Need Attention
+2160,5667,5-Star
+2161,902,Need Attention
+2162,977,Need Attention
+2163,7313,5-Star
+2164,7600,Need Attention
+2165,9706,Loyal
+2166,2429,5-Star
+2167,3520,5-Star
+2168,10394,Highest Potential
+2169,4548,Need Attention
+2170,9362,Highest Potential
+2171,3968,5-Star
+2172,4084,Highest Potential
+2173,6721,Highest Potential
+2174,2829,Highest Potential
+2175,1772,5-Star
+2176,1544,5-Star
+2177,492,Loyal
+2178,4377,Loyal
+2179,4541,Need Attention
+2180,1321,Need Attention
+2181,8858,Loyal
+2182,3266,Need Attention
+2183,11187,Loyal
+2184,8207,Need Attention
+2185,9723,5-Star
+2186,2666,Highest Potential
+2187,5721,Highest Potential
+2188,10652,Highest Potential
+2189,1646,Need Attention
+2190,4418,5-Star
+2191,2656,Loyal
+2192,7990,Loyal
+2193,8722,5-Star
+2194,7118,5-Star
+2195,2980,Loyal
+2196,1839,Need Attention
+2197,10722,Need Attention
+2198,2632,Loyal
+2199,9014,Need Attention
+2200,7620,Need Attention
+2201,10968,5-Star
+2202,11133,Loyal
+2203,2736,5-Star
+2204,1876,Loyal
+2205,5959,Loyal
+2206,1092,5-Star
+2207,4333,Need Attention
+2208,3850,Loyal
+2209,6168,Need Attention
+2210,607,Loyal
+2211,10469,Highest Potential
+2212,6983,Need Attention
+2213,3661,5-Star
+2214,9303,Need Attention
+2215,692,Loyal
+2216,736,Loyal
+2217,9589,Highest Potential
+2218,4838,Loyal
+2219,9246,Loyal
+2220,6261,Need Attention
+2221,7366,5-Star
+2222,10659,Loyal
+2223,1448,Need Attention
+2224,4286,Highest Potential
+2225,4749,Loyal
+2226,4478,5-Star
+2227,4201,Loyal
+2228,8720,5-Star
+2229,10084,Need Attention
+2230,7004,Loyal
+2231,9817,5-Star
+2232,8080,Loyal
+2233,9432,Highest Potential
+2234,8372,Loyal
+2235,10870,5-Star
+2236,4001,Need Attention
+2237,7270,Highest Potential
+2238,8235,Highest Potential
+2239,9405,Loyal
